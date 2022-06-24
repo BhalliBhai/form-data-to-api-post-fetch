@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  margin-top: 5px;
+}
+form{
+  width: 500px;
+  text-align: center;
+  margin: auto;
+  height: auto;
+  padding: 0px;
+
+}
+input{
+  width: 100%;
+  padding: 5px 10px;
+  margin-bottom: 10px !important;
+  border-radius: 20px;
+  border: 1px solid ;
+}
+button{
+  width: 100%;
+  border-radius: 20px !important;
+  border: 1px solid black;
+  padding: 5px 20px;
+  font-size: 20px !important;
+  background-color: aqua;
+}
+
+span{
+  font-weight: 600;
+}
+.api-data{
+  width: 80%;
+  height:285px;
+  overflow-y: scroll;
+  margin: auto;
+}
+.api-data h4{
+  margin: 0;
+  padding: 0;
+}
+.api-data::-webkit-scrollbar {
+  width: 10px;
+  border: 1px solid #f1f1f1;
+  
+}
+
+.api-data::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+  border-radius: 50px;
+}
+ 
+.api-data::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 50px;
+  border: 1px solid #f1f1f1;
+}
+
+.api-data::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+ol{
+  padding: 20px 0 20px 0;
+}
+ ol li{
+   border-bottom: 1px dashed black;
+   text-align: left;
+   padding-left: 20px;
+ }
+ li:nth-child(even) {background: #CCC}
+ li:nth-child(odd) {background: #FFF}
+ .message{
+ color: green;
+ font-weight: 600;
+ font-size: 20px;
+ }
+ .copyright{
+  background-color: black;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  color: white;
+ }
+ .copyright a{
+      text-decoration: none;
+      color: white;
+ }
+ .copyright a:hover{
+  color: aqua;
+ }
