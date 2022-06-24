@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form-data-to-api-post-fetch/static/css/main.5af452c5.css",
+    "main.js": "/form-data-to-api-post-fetch/static/js/main.fd29419d.js",
+    "static/js/787.aeb39de0.chunk.js": "/form-data-to-api-post-fetch/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/form-data-to-api-post-fetch/index.html",
+    "main.5af452c5.css.map": "/form-data-to-api-post-fetch/static/css/main.5af452c5.css.map",
+    "main.fd29419d.js.map": "/form-data-to-api-post-fetch/static/js/main.fd29419d.js.map",
+    "787.aeb39de0.chunk.js.map": "/form-data-to-api-post-fetch/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5af452c5.css",
+    "static/js/main.fd29419d.js"
+  ]
+}
