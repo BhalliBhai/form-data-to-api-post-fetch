@@ -1,3 +1,18 @@
+
+Hi, Everyone It's Bhalli. 
+I'm a web applications developer and here is a small effort from me.
+This project is about API.
+Upload form Data to API and fetch Data from API.
+
+
+
+
+Thanks!
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
